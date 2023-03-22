@@ -3,7 +3,7 @@
 A new Flutter project.
 Focusing on CI-CD Github Action
 - build android apk release mode and signing - distribute to firebase distribution
-- build ios ipa and signning - distribute to testflight
+- build ios ipa and signing - distribute to testflight
 
 ## Getting Started
 
